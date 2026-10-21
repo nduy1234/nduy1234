@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:8b93ff&height=200&section=header&text=Day%20Nguyen&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%7C%20Product%20Engineer%20%7C%20AI%20Agents&descAlignY=60&descSize=18&descColor=e0e7ff" alt="Day Nguyen: Forward Deployed Engineer, Product Engineer, AI Agents"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:8b93ff&height=200&section=header&text=Day%20Nguyen&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Product%20Growth%20%7C%20Builder&descAlignY=60&descSize=18&descColor=e0e7ff" alt="Day Nguyen: AI Engineer, Product Growth, Builder"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&repeat=true&width=720&height=50&lines=I+ship+customer-facing+AI+agents;Voice+AI+%7C+Fraud+detection+%7C+Workflow+automation;From+customer+problem+to+working+product+in+days" alt="I ship customer-facing AI agents"/>
