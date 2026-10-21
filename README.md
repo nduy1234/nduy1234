@@ -18,7 +18,7 @@
 
 ```ts
 const day = {
-  role: ["Forward Deployed Engineer", "Product Engineer", "AI Engineer"],
+  role: ["AI Engineer", "Product Growth", "Builder"],
   now: "AI Engineer @ Handshake: evaluating frontier LLM output for AI labs",
   before: [
     "Founder @ Advan: AI customer-support platform, through design-partner rollout",
