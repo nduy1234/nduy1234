@@ -78,8 +78,6 @@ const day = {
 
 </div>
 
-## GitHub stats
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nduy1234&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduy1234&layout=compact&hide_border=true&title_color=4f46e5" alt="Top languages"/>
