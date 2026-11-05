@@ -24,7 +24,7 @@ const day = {
     "Founder @ Advan: AI customer-support platform, through design-partner rollout",
     "Product Engineer @ 10+ client engagements: 25+ full-stack products shipped",
   ],
-  builds: ["Voice agents", "Fraud detection", "Workflow automation", "LLM evaluation"],
+  builds: ["Voice agents", "Workflow automation", "LLM evaluation"],
   approach: "Customer discovery -> prototype -> ship to production",
   education: [
     "ALM, Digital Media Design @ Harvard",
