@@ -44,6 +44,12 @@ const day = {
 | [**RF-Sentinel**](https://github.com/nduy1234/rf-sentinel) | RF anomaly detection (jamming, spoofing, drift) streaming to Palantir Foundry | Python, PyTorch, FastAPI, Foundry |
 | [**AdAI**](https://github.com/nduy1234/AdAI) · [demo](https://ad-ai-three.vercel.app) | Voice procurement agent: job-spec intake, parallel vendor quote calls, negotiation with real quotes | Next.js, ElevenLabs, Twilio, OpenAI, Supabase |
 | [**Raise**](https://github.com/nduy1234/Raise) · [demo](https://youtu.be/iiCXKVhJFuA) | iMessage fundraising associate with source-grounded investor research and multiplayer approvals | Python, OpenClaw, Docker |
+| [**Advan**](https://github.com/nduy1234/advan) · [site](https://www.advanai.net/) | The company I founded: trust layer for AI customer support with source-cited drafts, a confidence score, policy gates, and human approval below 85% | Next.js, LangGraph, Temporal, pgvector, OPA |
+| [**DockTwin**](https://github.com/nduy1234/DockTwin) · [demo](https://docktwin.vercel.app) | Voice, text, or a photo becomes a 3D port-terminal twin; an agent stress-tests its rules and proves every fix by re-simulation | Next.js, Muse Spark, SAM 3.1, React Three Fiber |
+| [**AI Connector**](https://github.com/nduy1234/connectorAI) · [demo](https://porfo1.vercel.app/demos/connector-ai) | Turns legacy-system docs plus tribal notes into a tested MCP server, and learns each quirk for the next connector | Next.js, Claude, MCP, Zod, SQLite |
+| [**SpecBot**](https://github.com/nduy1234/SpecBot) · [demo](https://specbot-text.vercel.app) | Text a robot fleet over iMessage; a cost-aware router picks the cheapest model per command and a code validator blocks unsafe plans | React, Convex, Claude, Photon, three.js |
+| [**GAIA Green Agent**](https://github.com/nduy1234/gaia-green-agent) · [demo](https://porfo1.vercel.app/demos/gaia-green-agent) | Deterministic AgentBeats agent with separate plan, act, and verify phases, exact Decimal math, and a JSON trace per phase | Python, Docker, GitHub Actions |
+| [**Connect**](https://github.com/nduy1234/connectapp) · [demo](https://porfo1.vercel.app/demos/connectapp) | Mobile startup-networking app with Google OAuth, row-level security on every table, and realtime notifications | React, Supabase, Capacitor |
 
 ## Tech stack
 
