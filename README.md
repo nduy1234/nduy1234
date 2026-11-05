@@ -40,7 +40,7 @@ const day = {
 | --- | --- | --- |
 | [**Aida**](https://github.com/nduy1234/Aida) · [demo](https://youtu.be/8E9mFA73ysE) | Voice agent for freight brokers: verifies callers against FMCSA with an out-of-band SMS code, books real carriers, holds impersonators on live calls | Python, FastAPI, ElevenLabs, Twilio, Next.js |
 | [**PowerUP**](https://github.com/nduy1234/PowerUp) · [demo](https://mrbese.github.io/PowerUp/) | Disaster layer for a home-battery fleet: fills batteries by risk before wildfire shutoffs, guards every order with 8 safety checks | JavaScript, Node.js, Python |
-| [**Lanewatch**](https://github.com/nduy1234/Lanewatch) | Freight-fraud scorer on 8 call signals that learns from every confirmed outcome | JavaScript, logistic regression, online SGD |
+| [**Lanewatch**](https://github.com/nduy1234/Lanewatch) · [demo](https://porfo1.vercel.app/work/lanewatch#what-i-built) | Freight-fraud scorer on 8 call signals that learns from every confirmed outcome | JavaScript, logistic regression, online SGD |
 | [**RF-Sentinel**](https://github.com/nduy1234/rf-sentinel) · [demo](https://porfo1.vercel.app/demos/rf-sentinel) | RF anomaly detection (jamming, spoofing, drift) streaming to Palantir Foundry | Python, PyTorch, FastAPI, Foundry |
 | [**AdAI**](https://github.com/nduy1234/AdAI) · [demo](https://ad-ai-three.vercel.app) | Voice procurement agent: job-spec intake, parallel vendor quote calls, negotiation with real quotes | Next.js, ElevenLabs, Twilio, OpenAI, Supabase |
 | [**Raise**](https://github.com/nduy1234/Raise) · [demo](https://youtu.be/iiCXKVhJFuA) | iMessage fundraising associate with source-grounded investor research and multiplayer approvals | Python, OpenClaw, Docker |
@@ -82,11 +82,6 @@ const day = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nduy1234&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduy1234&layout=compact&hide_border=true&title_color=4f46e5" alt="Top languages"/>
 </div>
 
 <div align="center">
